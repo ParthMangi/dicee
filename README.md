@@ -31,6 +31,6 @@ I will make a Las Vegas dice app. You can make the die roll at the press of a bu
   - Engine • revision d1bc06f032
   - Tools • Dart 2.9.2
 
-# MI Card
+# Dicee App
 
-![mi_card](https://github.com/ParthMangi/MiCard/blob/main/card.gif?raw=true)
+![mi_card](https://github.com/ParthMangi/dicee/blob/main/example.gif?raw=true)
