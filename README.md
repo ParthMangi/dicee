@@ -24,3 +24,13 @@ I have made a Las Vegas dice app. You can make the die roll at the press of a bu
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
+## Last Run
+ 
+  - Flutter 1.20.4 • channel unknown • unknown source
+  - Framework • revision fba99f6cf9 (5 weeks ago) • 2020-09-14 15:32:52 -0700
+  - Engine • revision d1bc06f032
+  - Tools • Dart 2.9.2
+
+# MI Card
+
+![mi_card](https://github.com/ParthMangi/MiCard/blob/main/card.gif?raw=true)
